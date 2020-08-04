@@ -1,3 +1,7 @@
+# proffy-app
+
+Projeto criado durante o Next Level Week #2, nível intermediário.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
